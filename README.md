@@ -9,9 +9,9 @@
 
 ```javascript
 const iram = {
-  about me: "irish" | 25,
-  languages: [Java, Kotlin, Javascript, HTML, C#, PHP, SQL],
-  tools: [Android Studio, Microsoft Visual Studio],
+  about me: "Irish" | 25,
+  languages: ["Java", "Kotlin", "JavaScript", "HTML", "C#", "PHP", "SQL"],
+  tools: ["Android Studio", "Microsoft Visual Studio"],
 }
 ```
 ---
