@@ -10,7 +10,7 @@
 ```javascript
 const iram = {
   about me: "irish" | 25,
-  code: [Java, Kotlin, Javascript, HTML, C#, PHP],
+  languages: [Java, Kotlin, Javascript, HTML, C#, PHP, SQL],
   tools: [Android Studio, Microsoft Visual Studio],
 }
 ```
