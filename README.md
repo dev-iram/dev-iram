@@ -14,4 +14,4 @@ const iram = {
 ```
 ---
 
-<a href="https://hits.seeyoufarm.com"><img align= 'right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-iram&count_bg=%231091A4&title_bg=%231091A4&icon=&icon_color=%23E7E7E7&title=%E2%99%A5%EF%B8%8E+&edge_flat=false"/></a>
+<img align= 'right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-iram&count_bg=%231091A4&title_bg=%231091A4&icon=&icon_color=%23E7E7E7&title=%E2%99%A5%EF%B8%8E+&edge_flat=false"/></a>
