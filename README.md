@@ -7,8 +7,8 @@
 
 ```javascript
 const iram = {
-  about me: "Software Developer Apprentice" | "Aer Lingus",
-  languages: ["Java", "Kotlin", "JavaScript", "HTML", "C#", "PHP", "SQL"],
+  about me: "Android Developer",
+  languages: ["Kotlin", "Java", "JavaScript", "HTML", "C#", "PHP", "SQL"],
   tools: ["Android Studio", "Microsoft Visual Studio"],
 }
 ```
